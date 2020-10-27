@@ -1,0 +1,1 @@
+esc -o=./reading/read.go -pkg=reading ./readfile
